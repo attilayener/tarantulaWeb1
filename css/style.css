@@ -1,0 +1,59 @@
+/************Body başlangıç.*********/
+
+.ana-sinif {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #726a6c;
+/*    background-image: url('https://r4.wallpaperflare.com/wallpaper/389/320/1017/dark-spider-animals-tarantula-wallpaper-d33a73dab8259c3d78f2be83917852c1.jpg');  */    background-size: cover;
+    color: #d2f3f0;
+    text-decoration: none; 
+}
+
+/***************Body Bitiş. ********/
+
+/******************** Menu Baslangic   ******************/
+.menu {
+    text-align: center;
+    list-style: none;
+    display: block;
+}
+.menu li {
+    color: #d2f0ee;
+    display: inline;
+    margin: 10px;
+    position: relative;  
+    text-decoration: none; 
+}
+/******************** Menu Bitis   ******************/
+
+/******************** Section Baslangic   ******************/
+
+.orta-metin{
+    width: 900px;
+    margin: auto;
+}
+
+.saga-kaydir {
+    float: right;
+    height: 200px;
+    padding: 0 10px 10px 0;
+}
+
+.sola-kaydir {
+    float: left;
+    width: 300px;
+    height: 200px;
+    padding: 0 10px 0; 
+}
+
+
+/******************** Section Baslangic   ******************/
+
+/*** alt video başlangıç ***/
+.alt-video{
+    text-align: center;
+    margin-top: 150px;
+}
+
+/*** alt video bitiş ***/
+
+/**tarantula tür listesi*/
